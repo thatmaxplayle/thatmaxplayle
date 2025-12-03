@@ -10,7 +10,7 @@ View more information at [https://ammedia.digital](https://ammedia.digital)
 
 Here is a couple of facts about me!
 
-- 🔭 My current main project is **[MusicV](https://ammedia.digital/solutions/music-v/)** on behalf of [@ammediadigital](https://github.com/ammediadigital).
+- 🔭 My current main project is **[Encore](https://staging.encore-crm.com)** and **[MusicV](https://ammedia.digital/solutions/music-v/)** on behalf of [@ammediadigital](https://github.com/ammediadigital).
 - 📋 Personal Projects include:
    - EnterManager | Online Bookings & CRM for DJs, Entertainers and Music Venues
    - Section136Callouts | Callout plugin for LSPDFR/GTA V
